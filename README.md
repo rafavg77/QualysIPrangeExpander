@@ -5,5 +5,6 @@ Script para expander la direcciones IP agrupadas en los assets de Qualys
 ```bash
 git clone https://github.com/rafavg77/QualysIPrangeExpander.git
 cd QualysIPrangeExpander
-chmod +x 
+chmod +x qualysIPExpander.sh
+./qualysIPExpander.sh
 ```
