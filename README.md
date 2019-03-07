@@ -8,3 +8,8 @@ cd QualysIPrangeExpander
 chmod +x qualysIPExpander.sh
 ./qualysIPExpander.sh
 ```
+
+## Ejemplos
+```bash
+./qualysIPExpander.sh
+```
