@@ -12,4 +12,5 @@ chmod +x qualysIPExpander.sh
 ## Ejemplos
 ```bash
 ./qualysIPExpander.sh
+![screen1] https://raw.githubusercontent.com/rafavg77/QualysIPrangeExpander/master/Captura.PNG
 ```
