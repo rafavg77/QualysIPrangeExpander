@@ -16,5 +16,5 @@ chmod +x qualysIPExpander.sh
 
 ![screen1](https://raw.githubusercontent.com/rafavg77/QualysIPrangeExpander/master/Captura.PNG)
 
-## Ejemplos
+## TODO
 - [ ] Validar los tres primeros octetos para detectar si es un rago de ip muy grande.
